@@ -1,0 +1,17 @@
+{
+  "name": "angular2-to-do",
+  "description": "A to-do list built with Angular 2",
+  "main": "",
+  "authors": [
+    "Luke Bertram"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
